@@ -1,0 +1,11 @@
+{
+  "services": [
+    {
+      "id": "2f2295df-845d-40a1-87e4-1bb53c6a73d9",
+      "name": "DN",
+      "url": "http://www.dn.se",
+      "status": "OK",
+      "lastCheck": "2014-06-16 16:42"
+    }
+  ]
+}

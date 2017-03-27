@@ -1,0 +1,27 @@
+{
+  "services" : [ {
+    "id" : "e694450a-9c9f-4542-88ac-2285adb83746",
+    "name" : "DN",
+    "url" : "http://www.dn.se",
+    "status" : "OK",
+    "lastCheck" : "2017-03-25 00:26"
+  }, {
+    "id" : "b48efb78-dacc-4136-808f-9ab5a0af69a8",
+    "name" : "KRY",
+    "url" : "http://kry.se",
+    "status" : "FAIL",
+    "lastCheck" : "2017-03-25 00:26"
+  }, {
+    "id" : "1f076f9e-ff8a-457f-9e85-39ffedd215fb",
+    "name" : "Aftonbladet",
+    "url" : "http://www.aftonbladet.se",
+    "status" : "OK",
+    "lastCheck" : "2017-03-25 00:26"
+  }, {
+    "id" : "4cffa45e-d338-4060-889a-0b1cb2501b31",
+    "name" : "Expressen",
+    "url" : "http://www.expressen.se",
+    "status" : "OK",
+    "lastCheck" : "2017-03-25 00:26"
+  } ]
+}

@@ -1,0 +1,4 @@
+{
+  "http.port" : 8082,
+  "data.file": "target/classes/service.json"
+}
